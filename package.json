@@ -1,0 +1,19 @@
+{
+  "name": "mytest",
+  "version": "1.0.0",
+  "description": "测试项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xueyuan2333/myTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xueyuan2333/myTest/issues"
+  },
+  "homepage": "https://github.com/xueyuan2333/myTest#readme"
+}
